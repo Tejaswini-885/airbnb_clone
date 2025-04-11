@@ -1,4 +1,4 @@
-# nextjs-airbnb-clone
+# airbnb-clone
 
 A full-stack web application that replicates the core features of Airbnb. Users can browse listings, book stays, host properties, and manage reservations through a responsive, user-friendly interface.
 
